@@ -40,8 +40,4 @@ function! RemoveFocusHere()
 endfunction
 
 command! AddFocusHere call AddFocusHere()
-nnoremap <leader>af :AddFocusHere<CR>
-
 command! RemoveFocusHere call RemoveFocusHere()
-nnoremap <leader>rf :RemoveFocusHere<CR>
-

@@ -9,7 +9,7 @@ This package is only useful if you're using [this](https://github.com/seattlerb/
 - `AddFocusHere` adds focus to the test the cursor is currenty in
 - `RemoveFocusHere` removes focus from the test the cursor is currently in
 
-## Keybindings
-- `<leader>af` adds focus to the test the cursor is currenty in
-- `<leader>rf` removes focus from the test the cursor is currently in
+## Proposed Keybindings
+- `nnoremap <leader>af :AddFocusHere<CR>`
+- `nnoremap <leader>rf :RemoveFocusHere<CR>`
 
