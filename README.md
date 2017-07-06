@@ -13,3 +13,8 @@ This package is only useful if you're using [this](https://github.com/seattlerb/
 - `nnoremap <leader>af :AddFocusHere<CR>`
 - `nnoremap <leader>rf :RemoveFocusHere<CR>`
 
+## Installation
+- Follow the directions of your plugin manager
+  - Vundle: `Plugin jcqvisser/focus_toggle`
+  - Plug: `Plug jcqvisser/focus_toggle`
+  - Etc...
