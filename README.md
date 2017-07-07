@@ -1,7 +1,7 @@
 # focus_toggle
 Toggle focus on ruby tests
 
-This package is only useful if you're using [this](https://github.com/seattlerb/minitest-focus) gem.
+This package is only useful if you're using the [minitest-focus](https://github.com/seattlerb/minitest-focus) gem.
 
 ## Commands
 - `Af` adds focus to all tests in the current file
