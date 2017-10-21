@@ -6,7 +6,7 @@ This package is only useful if you're using the [minitest-focus](https://github.
 ## Commands
 - `Af` adds focus to all tests in the current file
 - `Rf` removes focus to all tests in the current file
-- `AddFocusHere` adds focus to the test the cursor is currenty in
+- `AddFocusHere` adds focus to the test the cursor is currently in
 - `RemoveFocusHere` removes focus from the test the cursor is currently in
 
 ## Proposed Keybindings
@@ -15,6 +15,5 @@ This package is only useful if you're using the [minitest-focus](https://github.
 
 ## Installation
 - Follow the directions of your plugin manager
-  - Vundle: `Plugin jcqvisser/focus_toggle`
-  - Plug: `Plug jcqvisser/focus_toggle`
-  - Etc...
+  - Vundle: `Plugin 'jcqvisser/focus_toggle'`
+  - Plug: `Plug 'jcqvisser/focus_toggle'`
